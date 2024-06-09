@@ -1,0 +1,15 @@
+/Users/KDMoment/Documents/GitHub/week15-day03-KaviousD/bin/Debug/net8.0/week15-day03-KaviousD
+/Users/KDMoment/Documents/GitHub/week15-day03-KaviousD/bin/Debug/net8.0/week15-day03-KaviousD.deps.json
+/Users/KDMoment/Documents/GitHub/week15-day03-KaviousD/bin/Debug/net8.0/week15-day03-KaviousD.runtimeconfig.json
+/Users/KDMoment/Documents/GitHub/week15-day03-KaviousD/bin/Debug/net8.0/week15-day03-KaviousD.dll
+/Users/KDMoment/Documents/GitHub/week15-day03-KaviousD/bin/Debug/net8.0/week15-day03-KaviousD.pdb
+/Users/KDMoment/Documents/GitHub/week15-day03-KaviousD/obj/Debug/net8.0/week15-day03-KaviousD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/KDMoment/Documents/GitHub/week15-day03-KaviousD/obj/Debug/net8.0/week15-day03-KaviousD.AssemblyInfoInputs.cache
+/Users/KDMoment/Documents/GitHub/week15-day03-KaviousD/obj/Debug/net8.0/week15-day03-KaviousD.AssemblyInfo.cs
+/Users/KDMoment/Documents/GitHub/week15-day03-KaviousD/obj/Debug/net8.0/week15-day03-KaviousD.csproj.CoreCompileInputs.cache
+/Users/KDMoment/Documents/GitHub/week15-day03-KaviousD/obj/Debug/net8.0/week15-day03-KaviousD.sourcelink.json
+/Users/KDMoment/Documents/GitHub/week15-day03-KaviousD/obj/Debug/net8.0/week15-day03-KaviousD.dll
+/Users/KDMoment/Documents/GitHub/week15-day03-KaviousD/obj/Debug/net8.0/refint/week15-day03-KaviousD.dll
+/Users/KDMoment/Documents/GitHub/week15-day03-KaviousD/obj/Debug/net8.0/week15-day03-KaviousD.pdb
+/Users/KDMoment/Documents/GitHub/week15-day03-KaviousD/obj/Debug/net8.0/week15-day03-KaviousD.genruntimeconfig.cache
+/Users/KDMoment/Documents/GitHub/week15-day03-KaviousD/obj/Debug/net8.0/ref/week15-day03-KaviousD.dll
